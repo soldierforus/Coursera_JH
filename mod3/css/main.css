@@ -12,9 +12,43 @@ body {
     text-decoration: none;
     font-size: 4em;
     font-weight: bold;
-    color: white;
 }
 
 #navbar-header a:hover {
     text-decoration: none;
 }
+
+#nav-list {
+    margin-top: 10px;
+}
+
+#nav-list a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+ a:hover {
+    background-color: yellow;
+    color: maroon;
+}
+
+#body{
+    background-color: maroon;
+    border: 1px solid black;
+    color: yellow;
+}
+
+h1 {
+    color: yellow;
+}
+
+#chicken, #beef, #sushi  {
+    background-color: yellow;
+    color: maroon;
+    margin: 10 0 10 0;
+}
+
+li {
+    color: yellow;
+}
+
