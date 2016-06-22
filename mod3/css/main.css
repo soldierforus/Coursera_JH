@@ -8,7 +8,7 @@ body {
     border: 0;
 }
 
-#navbar-brand h1 {
+#navbar-header h1 {
     text-decoration: none;
     font-size: 4em;
     font-weight: bold;
@@ -52,3 +52,6 @@ li {
     color: yellow;
 }
 
+#navbar-brand {
+    color: yellow;
+}
