@@ -1,15 +1,3 @@
-Skip to content
-Personal Open source Business Explore
-Sign upSign inPricingBlogSupport
-This repository
-Search
- Watch 1  Star 4  Fork 3 faheemzunjani/Coursera-WebDev-JHU-Assignments
- Code  Issues 0  Pull requests 0  Pulse  Graphs
-Branch: master Find file Copy pathCoursera-WebDev-JHU-Assignments/module-5-solution/js/script.js
-c154ead  25 days ago
-@faheemzunjani faheemzunjani Finish Assignment
-1 contributor
-RawBlameHistory     348 lines (288 sloc)  11.2 KB
 $(function () { // Same as document.addEventListener("DOMContentLoaded"...
 
   // Same as document.querySelector("#navbarToggle").addEventListener("blur",...
@@ -356,6 +344,3 @@ function insertItemPortionName(html,
 global.$dc = dc;
 
 })(window);
-
-Status API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
